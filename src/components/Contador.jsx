@@ -10,5 +10,4 @@ function Contador({ numero }) {
         </div>
     )
 }
-
 export default Contador
